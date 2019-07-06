@@ -4,8 +4,8 @@ from weibo import Client
 import requests
 import json
 
-APP_KEY = ''
-APP_SECRET = ''
+APP_KEY = '黑色陨石-'
+APP_SECRET = 'qtuwupoqwpt123'
 CALLBACK = ''
 USERNAME = ''
 PASSWORD = ''
